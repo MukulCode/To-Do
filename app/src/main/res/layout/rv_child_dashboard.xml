@@ -11,12 +11,14 @@
             android:layout_height="wrap_content"
             android:layout_toStartOf="@+id/iv_menu"
             android:layout_toLeftOf="@+id/iv_menu"
+            android:textStyle="bold"
+            android:textSize="20dp"
             android:padding="16dp"/>
 
     <ImageView
             android:id="@+id/iv_menu"
             android:layout_width="48dp"
-            android:layout_height="48dp"
+            android:layout_height="60dp"
             android:layout_alignParentEnd="true"
             android:layout_alignParentRight="true"
             android:src="@drawable/ic_vertical_dot"
