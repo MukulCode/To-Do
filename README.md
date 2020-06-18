@@ -1,6 +1,14 @@
 # To Do List Application
 This application completely related to an assignment provided by "XYY"(using name is not a good idea).
 
+Must watch [this](https://bit.ly/UCTODOVID) short video to know its working.
+
+Screenshots are [here](https://bit.ly/USTODOSS)
+
+Q: Want to know my coding style??
+
+A: Have a look into my commit history.
+
 ## Features of applications
 1. User can create tasks  in dashboard.
 2. Every task can have multiple subtasks.
